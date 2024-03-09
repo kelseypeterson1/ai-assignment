@@ -1,0 +1,54 @@
+{
+    "question1": {
+        "A": {
+            "democrat": 3,
+            "republican": 10,
+            "independent": 4,
+            "green": 1
+        },
+        "B": {
+            "democrat": 12,
+            "republican": 3,
+            "independent": 1,
+            "green": 6
+        },
+        "C": {
+            "democrat": 4,
+            "republican": 9,
+            "independent": 4,
+            "green": 3
+        },
+        "D": {
+            "democrat": 11,
+            "republican": 14,
+            "independent": 0,
+            "green": 8
+        }
+    },
+    "question2": {
+        "A": {
+            "democrat": 12,
+            "republican": 10,
+            "independent": 6,
+            "green": 1
+        },
+        "B": {
+            "democrat": 12,
+            "republican": 10,
+            "independent": 9,
+            "green": 6
+        },
+        "C": {
+            "democrat": 4,
+            "republican": 9,
+            "independent": 2,
+            "green": 3
+        },
+        "D": {
+            "democrat": 13,
+            "republican": 14,
+            "independent": 0,
+            "green": 8
+        }
+    }
+}
